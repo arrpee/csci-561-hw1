@@ -14,6 +14,11 @@ The scripts can be run through the following commands:
 python homework3.py
 ```
 
+There is a helper script which generates multiple inputs and then tests the program with them. This script can be run in powershell:
+```bash
+.\helper.ps1
+```
+
 Running the scripts will generate the output file `output.txt` which contains the solution as required by the homework description.
 
 ## Author
